@@ -20,5 +20,5 @@
  <img align="center" alt="j27-git" height="30" width="40" src="https://victoriakallsen.files.wordpress.com/2018/08/git-icon-1788c.png">
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/J27mendes/J27mendes/blob/main/github-contribution-grid-snake.svg)
 </div>
