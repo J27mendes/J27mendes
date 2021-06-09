@@ -1,19 +1,21 @@
 ## (Hallo, Ich Heiβe PunkJ27, gemeint...)  
 ## Olá, Eu me chamo Jessé Mendes
-<div style="display: inline_block; margin-top: 30px; margin-bottom: 30px;">
+<div>
+  
   <a href="https://github.com/J27mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J27mendes&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J27mendes&layout=compact&langs_count=16&theme=light"/>
-<div style="display: inline_block; margin-top: 30px; margin-top:30px;">
+<div>
+  <br>
   <a href="https://www.youtube.com/results?search_query=genese+maldita" target="_blank"><img src="https://img.shields.io/badge/-GÊNESE MALDITA-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/punkj27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto: mendes_j27@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jess%C3%A9-mendes-3933841ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<div style="margin-top: 30px;margin-bottom: 30px;"> 
-    <img src="https://gifdownload.net/wp-content/uploads/2020/03/roda-punk-gif-1.gif"/>
+<div><br>
+  <img align="250" src="https://gifdownload.net/wp-content/uploads/2020/03/roda-punk-gif-1.gif" width="495" height="200"/>
 </div> 
-<div style="display: inline_block; margin-top: 30px; margin-bottom: 30px;"><br>
+<div><br>
   <img align="center" alt="j27-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="j27-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="j27-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
