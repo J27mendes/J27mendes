@@ -22,6 +22,7 @@
   <img align="center" alt="j27-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="j27-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="j27-md" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/markdown_logo_icon_145085.png">                                         <img align="center" alt="j27-git" height="30" width="40" src="https://victoriakallsen.files.wordpress.com/2018/08/git-icon-1788c.png">
+  <img align="center" alt="j27-git" height="30" width="40" src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667">
 </div>
 
   ![Snake animation](https://github.com/J27mendes/J27mendes/blob/main/github-contribution-grid-snake.svg)
