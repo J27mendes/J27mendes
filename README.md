@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/jess%C3%A9-mendes-3933841ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <div align="center"><br>
-  <img src="https://gifdownload.net/wp-content/uploads/2020/03/roda-punk-gif-1.gif" width="495" height="200"/>
+  <img src="https://www.google.com/search?q=gif%20roda%20punk&tbm=isch&tbs=rimg:CbuOKRsjjoOTYWENBNBfsz7wsgIGCgIIABAA&hl=pt-BR&sa=X&ved=0CCcQuIIBahcKEwiQ1aXBq6j0AhUAAAAAHQAAAAAQBw&biw=1007&bih=640#imgrc=iUGdPZTPv90-bM&imgdii=v_M3UEmTwekB2M" width="495" height="200"/>
 </div> 
 <div "style="display: inline_block;"><br>
   <img align="center" alt="j27-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
