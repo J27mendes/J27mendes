@@ -1,6 +1,6 @@
 
-  # (Olá, Eu me chamo Jessé Mendes)  
-  ## Hallo, Ich Heiβe PunkJ27, gemeint...
+# Ich Heiβe Jessé Mendes, wirklich. 
+## PunkJ27 ist nur ein Spitzname.
   
 <div align="center">
   
