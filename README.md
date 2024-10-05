@@ -1,5 +1,5 @@
 
-  # (Olá, Eu me chamo Jessé Mendes)  
+  # (Eu me chamo Jessé Mendes)  
   ## Hallo, Ich Heiβe PunkJ27, gemeint...
   
 <div align="center">
