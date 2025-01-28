@@ -17,7 +17,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Markdown-md" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/markdown_logo_icon_145085.png">                                         <img align="center" alt="j27-git" height="30" width="40" src="https://victoriakallsen.files.wordpress.com/2018/08/git-icon-1788c.png">
+  <img align="center" alt="Markdown-md" height="30" width="40" src="https://w7.pngwing.com/pngs/767/740/png-transparent-markdown-computer-icons-html-python-markdowns-angle-text-rectangle-thumbnail.png">
+  <img align="center" alt="j27-git" height="30" width="40" src="https://victoriakallsen.files.wordpress.com/2018/08/git-icon-1788c.png">
   <img align="center" alt="Typescript-git" height="30" width="40" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png">
   <img align="center" alt="React-git" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
   <img align="center" alt="PostgresSql-git" height="30" width="40" src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png">
