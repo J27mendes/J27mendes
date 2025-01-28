@@ -22,9 +22,10 @@
   <img align="center" alt="Typescript-git" height="30" width="40" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png">
   <img align="center" alt="React-git" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
   <img align="center" alt="PostgresSql-git" height="30" width="40" src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png">
+  <img align="center" alt="Docker-git" height="30" width="40" src="https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo-thumbnail.png">
   <img align="center" alt="MongoDb-git" height="30" width="40" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
-   <img align="center" alt="NodeJs-git" height="30" width="40" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png">
-    <img align="center" alt="RestApi-git" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlZcu3lLpsEreY4lB3grvR-u5h0qB7c-a1rgLWAUEEIL6fTqkZsbof7jKiC277UPO4V0&usqp=CAU">
+  <img align="center" alt="NodeJs-git" height="30" width="40" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png">
+  <img align="center" alt="RestApi-git" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlZcu3lLpsEreY4lB3grvR-u5h0qB7c-a1rgLWAUEEIL6fTqkZsbof7jKiC277UPO4V0&usqp=CAU">
 </div>
 
 ## Ich Heiβe Jessé Mendes, wirklich. 
