@@ -25,6 +25,10 @@
   <img align="center" alt="MongoDb-git" height="30" width="40" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
   <img align="center" alt="NodeJs-git" height="30" width="40" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png">
   <img align="center" alt="RestApi-git" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlZcu3lLpsEreY4lB3grvR-u5h0qB7c-a1rgLWAUEEIL6fTqkZsbof7jKiC277UPO4V0&usqp=CAU">
+  <img align="center" alt="RestApi-git" height="30" width="40" src="https://www.svgrepo.com/show/448299/aws.svg">
+  <img align="center" alt="RestApi-git" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkw7sbLEFuFzrAhIcJXtlzOIY_UtQn1YZdtA&s">
+  <img align="center" alt="RestApi-git" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2vmy-DnHJpgErFVZrKvLOHlLve_P179HNA&s">
+  <img align="center" alt="RestApi-git" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgE4W8Z2g-BmgWlrbGRfuC0fIgHfS_GE2mig&s">  
 </div>
 
 ## Ich Heiβe Jessé Mendes, wirklich. 
